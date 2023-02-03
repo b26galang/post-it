@@ -4,9 +4,7 @@ import { PostIt } from './post-it';
 
 function App() {
   return <>
-
     <PostIt />
-
   </>
 }
 
